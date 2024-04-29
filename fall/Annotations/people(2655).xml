@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>people(2655).jpg</filename>
+	<path>D:\pycharm_project\pythonProject7\fall\image\people(2655).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>291</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bending</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>58</ymin>
+			<xmax>203</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

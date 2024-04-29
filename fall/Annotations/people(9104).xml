@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bending</folder>
+	<filename>people(9104).jpg</filename>
+	<path>D:\bending\people(9104).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>448</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bending</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>127</ymin>
+			<xmax>224</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

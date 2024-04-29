@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>people(6705).jpg</filename>
+	<path>D:\ipynb_files\神经网络\FallDown\JPEGImages\people(6705).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>622</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>down</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>70</ymin>
+			<xmax>485</xmax>
+			<ymax>550</ymax>
+		</bndbox>
+	</object>
+</annotation>
